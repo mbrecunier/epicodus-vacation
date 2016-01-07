@@ -10,7 +10,18 @@ body {
   bottom: 0;
 }
 
-.country {
+.country h2 {
+  text-align: center;
+  text-decoration: underline;
+  color: #003300;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+.country p {
+  text-align: center;
+}
+.inner_content {
   border: solid 2px pink;
   border-radius: 5%;
+  margin: 2%;
+  padding: 2%;
 }
