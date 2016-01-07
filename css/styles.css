@@ -1,0 +1,16 @@
+body {
+  padding-top: 60px;
+}
+
+.iconn {
+  margin-top: 250%;
+}
+
+.carousel-indicators {
+  bottom: 0;
+}
+
+.country {
+  border: solid 2px pink;
+  border-radius: 5%;
+}
