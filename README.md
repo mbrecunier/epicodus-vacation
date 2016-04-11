@@ -1,16 +1,21 @@
-# _{Application Name}_
+# Vacation Site
 
-#### Vacation Bootstrap Site, 1.7.2016
+#### Practice Bootstrap Website, 1.7.2016
 
 #### By Mao Thygesen and Michelle Brecunier
 
 ## Description
 
-This is an exercise in using bootstrap to create responsive design.
+This is an exercise in using bootstrap navbars, carousels, and responsive design.
 
 ## Setup/Installation Requirements
 
-Download this repository.
+* Clone this repository
+* Open in your web browser
+
+--or--
+
+* View on [GitHub Pages] (http://mbrecunier.github.io/epicodus-vacation/)
 
 ## Known Bugs
 
